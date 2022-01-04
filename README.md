@@ -17,7 +17,7 @@ One of the primary challenges encountered when analyzing the data, in relation t
 
 ## Results
 - ### Conclusions
-1)	Based on the "Outcomes Based on Goals" chart, projects with a goal of $5000 or less were more likely to be successful. Looking at the graph there was also a high success rate in the $35,000 to $40,000 range but given the total low number of projects, one could conclude that the sample size in that range is too small to retain confidence in the conclusion that Louise's project would follow suit. We would need to review other points of data and compare them to Louise's campaign data to see if they align with each other.
+1)	Based on the "Outcomes Based on Goals" chart, projects with a goal of $5000 or less were more likely to be successful. Looking at the graph there was also a high success rate in the $35,000 to $40,000 range but given the total number of projects in that range was low, one could conclude that the sample size in that range is too small to retain confidence in the conclusion that Louise's project would follow suit. We would need to review other points of data and compare them to Louise's campaign data to see if they align with each other.
 2)	Looking at the “Theater Outcomes by Launch Date” chart we can make several conclusion:
     - 	May and June are good months to launch potentially successful fundraising campaigns. Surprisingly May also had the most failed campaigns. 
     - 	May appears to be the most popular month to launch campaigns overall.  December seems to be the least popular and most volatile, with about a 50/50 chance of being successful.
